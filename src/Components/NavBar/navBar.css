@@ -1,0 +1,19 @@
+.nav-styles {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    text-align: start;
+    height: 5%;
+}
+
+.option {
+    font-family: 'Paytone One', sans-serif;
+    margin: 2rem;
+    color: #3A3A3A;
+    text-decoration: none;
+}
+
+.option:hover {
+    color: #EC7480;
+    border-bottom: 2px solid #EC7480;
+}
