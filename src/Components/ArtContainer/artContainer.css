@@ -14,3 +14,8 @@
     color: #3A3A3A;
     width: 24rem;
 }
+
+.gallery-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
