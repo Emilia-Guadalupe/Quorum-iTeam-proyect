@@ -1,5 +1,5 @@
 import React from 'react';
-import './gallery-styles.css';
+//import './gallery-styles.css';
 
 function GalleryContainer({photo, text}){
     return(
