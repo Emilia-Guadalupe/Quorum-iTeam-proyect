@@ -1,0 +1,24 @@
+footer {
+    height: 3rem;
+    background-color: #3A3A3A;
+    display: flex;
+    align-items: center;
+    padding: 1rem 1rem 1rem 3rem;
+}
+
+.ig-logo {
+    height: 1rem;
+    padding: 0rem 0.5rem 0rem 0.5rem;
+}
+
+.tw-logo {
+    height: 1rem;
+    color: white;
+}
+
+.copy {
+    margin: 0rem 0rem 0rem 2rem;
+    color: #FFFF;
+    font-family: 'Mada', sans-serif;
+    font-size: 0.9rem;
+}

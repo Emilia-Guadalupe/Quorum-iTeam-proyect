@@ -21,4 +21,11 @@
     padding-right: 1.5%;
 }
 
+.polygon-figure:hover {
+    -moz-transform: rotate(-30deg);
+    -o-transform: rotate(-30deg);
+    -webkit-transform: rotate(-30deg);
+    transform: rotate(-30deg);
+} 
+
 

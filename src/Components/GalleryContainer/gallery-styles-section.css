@@ -1,0 +1,58 @@
+.photos-container {
+    display: flex;
+    justify-content: center;
+}
+
+.p-container {
+    position: absolute;
+    bottom: -401px;
+    color: white;
+    padding: 1rem 1rem 1rem 1rem;
+    background: linear-gradient(185.65deg, rgba(236, 116, 128, 0) 8.26%, #EC7480 74.46%);
+    width: 10.2rem;
+    font-family: 'Paytone One', sans-serif;
+}
+
+#hover-container {
+    background: linear-gradient(179.66deg, rgba(236, 116, 128, 0) -21.85%, #EC7480 21.84%);
+    display: flex;
+    justify-content: left;
+    flex-direction: column;
+    align-items: flex-start;
+    position: absolute;
+    margin: 0%;
+    padding: 2rem 2rem 0rem 2rem;
+    height: 23rem;
+    width: 8.3rem;
+    opacity: 0;
+}
+
+#hover-container:hover {
+    opacity: 1;
+}
+
+#name {
+    padding: 0.5rem 0rem 0.5rem 0rem;
+    font-family: 'Paytone One', sans-serif;
+    color: white;
+}
+
+#description {
+    font-family: 'Mada', sans-serif;
+    color: white;
+    font-size: 14px;
+}
+
+#signature {
+    position: absolute;
+    bottom: 15px;
+    left: 18px;
+    font-size: 13px;
+    font-family: 'Mada', sans-serif;
+    color: white;
+}
+
+.art {
+    height: 25rem;
+    position: relative;
+}
