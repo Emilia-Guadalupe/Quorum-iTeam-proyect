@@ -1,0 +1,24 @@
+.all-the-questions-container {
+    margin: 0.5rem 0rem 2rem 0rem;
+}
+
+.question-styles {
+    display: flex;
+    align-items: center;
+}
+
+#question-section {
+    font-weight: 700;
+}
+
+.question-text {
+    font-family: 'Mada', sans-serif;
+    color: #3A3A3A;
+}
+
+.polygon-figure {
+    height: 14px;
+    padding-right: 1.5%;
+}
+
+

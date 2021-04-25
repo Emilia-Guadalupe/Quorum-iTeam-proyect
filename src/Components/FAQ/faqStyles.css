@@ -1,0 +1,16 @@
+#questions-container {
+    background-color: #F5F5F5;
+    margin-top: 2rem;
+    position: static;
+}
+
+#title-container {
+    font-family: 'Paytone One', sans-serif;
+    padding: 1.5rem 0rem 1rem 3rem;
+}
+
+#artfol-questions {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 0rem 0rem 1rem 3rem;
+}
