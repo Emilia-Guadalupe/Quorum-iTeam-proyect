@@ -1,5 +1,5 @@
 import React from 'react';
-//import './gallery-styles.css';
+import './gallery-styles-section.css';
 
 function GalleryContainer({photo, text}){
     return(
@@ -14,6 +14,7 @@ function GalleryContainer({photo, text}){
             <div id="hover-container">
             <p id="name">{text}</p>
             <p id="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+            <p id="signature">@artistname</p>
             </div>
         </div>
         </>
