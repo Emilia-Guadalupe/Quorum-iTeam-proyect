@@ -9,7 +9,7 @@ import Cellphone from '../../Images/preview 1phone.png';
 
 function Header(){
     return(
-        <div className="main-container">
+        <div id="main-container">
             <div className="first-elements-container">
                 <img className="main-logo-style"  src={MainLogo} alt="main logo" />
                 <h1 className="main-title">THE SOCIAL MEDIA APP TO KICKSTART YOUR ART JOURNEY</h1>
