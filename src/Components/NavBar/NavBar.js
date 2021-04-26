@@ -4,8 +4,8 @@ import './navBar.css';
 function NavBar(){
     return(
         <nav className="nav-styles">
-            <a href="#" className="option">ARTFOL</a>
-            <a href="#" className="option">FAQ</a>
+            <a href="#main-container" className="option">ARTFOL</a>
+            <a href="#questions-container" className="option">FAQ</a>
         </nav>
     )
 }
