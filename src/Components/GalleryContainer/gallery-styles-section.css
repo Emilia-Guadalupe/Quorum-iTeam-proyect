@@ -5,7 +5,7 @@
 
 .p-container {
     position: absolute;
-    bottom: -411px;
+    bottom: -395px;
     color: white;
     padding: 1rem 1rem 1rem 1rem;
     background: linear-gradient(185.65deg, rgba(236, 116, 128, 0) 8.26%, #EC7480 74.46%);
@@ -23,7 +23,7 @@
     margin: 0%;
     padding: 2rem 2rem 0rem 2rem;
     height: 23rem;
-    width: 8.3rem;
+    width: 8.2rem;
     opacity: 0;
 }
 
