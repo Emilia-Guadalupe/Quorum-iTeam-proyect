@@ -1,8 +1,10 @@
 ## Proyecto hecho para el desafío de Quorum iTeam, representando al #TeamOtaka 
 
-### ¿Qué necesitás para poder ver este proyecto?** Sólo tenés que instalar las dependencias básicas de React, que se descargan al ejecutar el comando "create-react-app"
+### ¿Qué necesitás para poder ver este proyecto?
 
-### ¿Qué podés encontrar en este proyecto?** 
+Sólo tenés que instalar las dependencias básicas de React, que se descargan al ejecutar el comando "create-react-app"
+
+### ¿Qué podés encontrar en este proyecto?
     -Los links de la parte superior llevan a distintas secciones dentro de la misma landing. 
     -Al hacer click en la sección de Preguntas Frecuentes, se despliega la respuesta. 
     -Al pasar el cursor sobre las imágenes, se muestra un texto. 
