@@ -6,6 +6,7 @@ import Polygon from '../../Images/Polygon_1.png';
 
 function Questions({question, answer}){
 
+    //Show and hide the answer container
     const [showing, setShowing] = useState(false);
     
 
