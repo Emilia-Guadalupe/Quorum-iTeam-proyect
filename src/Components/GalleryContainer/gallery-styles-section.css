@@ -1,15 +1,17 @@
 .photos-container {
     display: flex;
     justify-content: center;
+    padding: 0rem 2.5rem 0rem 2.5rem;
 }
 
 .p-container {
     position: absolute;
-    bottom: -395px;
+    display: flex;
     color: white;
+    bottom: -71.5%;
     padding: 1rem 1rem 1rem 1rem;
     background: linear-gradient(185.65deg, rgba(236, 116, 128, 0) 8.26%, #EC7480 74.46%);
-    width: 10.2rem;
+    width: 14.5%;
     font-family: 'Paytone One', sans-serif;
 }
 
@@ -21,8 +23,8 @@
     align-items: flex-start;
     position: absolute;
     margin: 0%;
-    padding: 2rem 2rem 0rem 2rem;
-    height: 23rem;
+    padding: 2.5rem 2.5rem 0rem 2.5rem;
+    height: 24.5rem;
     width: 8.2rem;
     opacity: 0;
 }
@@ -36,8 +38,9 @@
 }
 
 #name {
-    padding: 0.5rem 0rem 0.5rem 0rem;
+    margin: 0rem 0rem 0.5rem 0rem;
     font-family: 'Paytone One', sans-serif;
+    font-size: 16px;
     color: white;
 }
 
@@ -50,13 +53,13 @@
 #signature {
     position: absolute;
     bottom: 15px;
-    left: 18px;
+    left: 20px;
     font-size: 13px;
     font-family: 'Mada', sans-serif;
     color: white;
 }
 
 .art {
-    height: 25rem;
+    height: 27rem;
     position: relative;
 }
