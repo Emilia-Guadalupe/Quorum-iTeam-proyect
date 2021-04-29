@@ -20,10 +20,11 @@
 }
 
 #answer {
-    width: 25rem;
+    width: 28rem;
     margin-top: 3px;
     margin-left: 1.3rem;
     font-size: 19px;
+    text-align: justify;
 }
 
 #polygon-figure {

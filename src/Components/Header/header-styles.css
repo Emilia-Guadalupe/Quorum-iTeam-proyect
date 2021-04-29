@@ -2,6 +2,8 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     background: linear-gradient(180deg, rgba(236, 116, 128, 0) -49.18%, #EC7480 100%), url('../../Images//pexels-zaksheuskaya-1616403\ 1.png');
+    height: 26rem;
+    padding: 1rem;
 }
 
 .first-elements-container {
@@ -16,7 +18,7 @@
 }
 
 .main-logo-style {
-    height: 2.5rem;
+    height: 3rem;
     justify-content: center;
     margin-bottom: 3%;
 }
@@ -25,15 +27,17 @@
     font-family: 'Paytone One', sans-serif;
     color: white;
     margin-bottom: 4%;
-    width: 24rem;
+    width: 30rem;
+    font-size: 2.5rem;
+    font-weight: 400;
 }
 
 .appStore-link {
-    height: 3rem;
+    height: 3.5rem;
     margin: 3% 4% 3% 0%;
 }
 
 .cellphone-photo {
-    height: 32rem;
+    height: 38.5rem;
     position: absolute;
 }
