@@ -8,10 +8,10 @@
     position: absolute;
     display: flex;
     color: white;
-    bottom: -93.5%;
+    bottom: -90.2%;
     padding: 1rem 1rem 1rem 1rem;
     background: linear-gradient(185.65deg, rgba(236, 116, 128, 0) 8.26%, #EC7480 74.46%);
-    width: 18.4%;
+    width: 17.8%;
 }
 
 #hover-container {
@@ -23,8 +23,8 @@
     position: absolute;
     margin: 0%;
     padding: 3.2rem 4rem 0rem 3.5rem;
-    height: 32.8em;
-    width: 10rem;
+    height: 31.8em;
+    width: 9.5rem;
     opacity: 0;
 }
 
@@ -59,7 +59,7 @@
 }
 
 .art {
-    height: 36rem;
+    height: 35rem;
     position: relative;
 }
 
