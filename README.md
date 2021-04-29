@@ -9,10 +9,6 @@ Sólo tenés que instalar las dependencias básicas de React, que se descargan a
     -Al hacer click en la sección de Preguntas Frecuentes, se despliega la respuesta. 
     -Al pasar el cursor sobre las imágenes, se muestra un texto. 
 
-### Ver la página: 
-
-Ingresá en este link: https://optimistic-thompson-98b918.netlify.app
-
 #### Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
