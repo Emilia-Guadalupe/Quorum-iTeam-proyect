@@ -7,10 +7,10 @@ function GalleryContainer({photo, text}){
         <div className="photos-container">
             <div className="photo-and-text">
                 <img className="art" src={photo} alt="art" />
-                <div className="p-container">
-                <p className="art-text">{text}</p>
-                </div>
             </div> 
+            <div className="p-container">
+                <p className="art-text">{text}</p>
+            </div>
             <div id="hover-container">
             <p id="name">{text}</p>
             <p id="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
