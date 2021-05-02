@@ -5,13 +5,16 @@
 }
 
 .p-container {
-    position: absolute;
+    background: linear-gradient(190deg, rgba(236, 116, 128, 0) 80%, #EC7480 90%);
     display: flex;
-    color: white;
-    bottom: -90.2%;
+    align-items:flex-end;
+    justify-content:flex-start;
+    position: absolute;
+    margin: 0%;
     padding: 1rem 1rem 1rem 1rem;
-    background: linear-gradient(185.65deg, rgba(236, 116, 128, 0) 8.26%, #EC7480 74.46%);
-    width: 17.8%;
+    height: 33rem;
+    width: 15rem;
+    opacity: 1;
 }
 
 #hover-container {
@@ -66,4 +69,18 @@
 .art-text {
     font-family: 'Paytone One', sans-serif;
     font-size: 19px;
+    align-items: center;
+    color: white;
+    padding: 0.5px;
 }
+
+/*
+background: linear-gradient(179.66deg, rgba(236, 116, 128, 0) -21.85%, #EC7480 21.84%);
+    display: flex;
+    align-items: center;
+    position: absolute;
+    height: 5rem;
+    width: 11rem;
+    padding: 0.5rem 3rem 0.5rem 3rem;
+    opacity: 1;
+*/

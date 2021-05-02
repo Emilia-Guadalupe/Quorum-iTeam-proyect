@@ -1,6 +1,7 @@
 .all-the-questions-container {
-    margin: 0.5rem 0rem 2rem 0rem;
-    height: 3rem;
+    margin: 0.5rem 15% 2rem 15%;
+    height: 5rem;
+    width: 30rem;
 }
 
 .question-styles {

@@ -1,20 +1,18 @@
-#questions-container {
+.questions-container {
+    display: grid;
+    justify-content: center;
     background-color: #F5F5F5;
-    margin-top: 2rem;
-    position: static;
-    padding: 0.5rem;
 }
 
-#title-container {
+.questions-title {
     font-family: 'Paytone One', sans-serif;
-    padding: 2.5rem 0rem 2rem 4rem;
+    padding: 2.5rem 6% 2rem 6%;
     font-size: 20px;
     color: #3A3A3A;
 }
 
-#artfol-questions {
+.questions-section {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    padding: 0rem 0rem 2rem 4rem;
-    height: 16rem;
+    justify-content: center;
 }

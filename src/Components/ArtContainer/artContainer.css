@@ -1,6 +1,13 @@
+#art-container-part {
+    display: grid;
+    justify-content: center;
+    margin: 2%;
+}
+
 .art-presentation {
-    margin: 2.5rem 3.5rem 2rem 3.5rem;
-    padding: 0rem 1rem 0rem 1rem;
+    display: grid;
+    grid-template-columns: 1fr;
+    margin: 2%;
 }
 
 .second-title {
