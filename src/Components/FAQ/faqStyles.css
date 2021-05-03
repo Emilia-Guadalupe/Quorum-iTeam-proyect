@@ -1,13 +1,14 @@
-.questions-container {
+#questions-container {
     display: grid;
     justify-content: center;
+    padding: 2%;
     background-color: #F5F5F5;
 }
 
-.questions-title {
-    font-family: 'Paytone One', sans-serif;
-    padding: 2.5rem 6% 2rem 6%;
+.questions-title-container {
+    margin: 2%;
     font-size: 20px;
+    font-family: 'Paytone One', sans-serif;
     color: #3A3A3A;
 }
 
@@ -16,3 +17,9 @@
     grid-template-columns: 1fr 1fr;
     justify-content: center;
 }
+
+
+
+
+
+
